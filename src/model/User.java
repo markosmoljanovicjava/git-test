@@ -2,6 +2,8 @@ package model;
 
 public class User {
 
+	// master
+
 	private String name;
 	private int age;
 	private String address;
